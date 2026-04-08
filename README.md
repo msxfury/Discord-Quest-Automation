@@ -41,6 +41,9 @@ This project includes a major UI/UX refresh and backend/integration updates comp
 ## Contributor
 - [msxfury](https://github.com/msxfury) - Led design and integration updates for this release.
 
+## Socials
+- Follow [msxfury](https://github.com/msxfury) on Instagram: [msxfury](https://www.instagram.com/__msxfuryyy___)
+- Subscribe to [msxfury](https://github.com/msxfury) on YouTube: [msxfury](https://www.youtube.com/@msxfury)
 ## Credits
 
 - Original project by [markterence](https://github.com/markterence)
@@ -153,6 +156,9 @@ This project is for educational and testing use. You are responsible for complyi
 
 ## License
 MIT License
+
+
+
 
 
 
