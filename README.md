@@ -12,7 +12,7 @@ Discord Quest Automation helps you test or simulate game activity without downlo
 
 
 
-https://github.com/user-attachments/assets/88c96ac4-6f34-42dd-b4a6-8739fae50eab
+<video src="https://github.com/user-attachments/assets/88c96ac4-6f34-42dd-b4a6-8739fae50eab" controls width="700"></video>
 
 
 
