@@ -8,6 +8,13 @@ A Tauri desktop app that simulates Discord-detectable game activity using lightw
 ## Overview
 Discord Quest Automation helps you test or simulate game activity without downloading full game files. The app is centered around verified Discord-detectable game metadata and provides a focused dashboard for searching games, launching lightweight runner processes, stopping them cleanly, and checking status from one place.
 
+## Full Video Tutorial
+
+
+https://github.com/user-attachments/assets/c4de235c-aec4-42d7-a280-fb877dcae1d0
+
+
+
 ## Releases
 To download the packaged app or source code, visit the [Releases](https://github.com/msxfury/Discord-Quest-Completer-v1.0/releases/tag/2026-v.1.1.0) page.
 
