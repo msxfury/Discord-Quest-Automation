@@ -1,8 +1,5 @@
 # Discord Quest Automation
 
-![Build Artifacts](https://img.shields.io/github/actions/workflow/status/markterence/discord-quest-completer/rust-check.yml?branch=main&style=flat&label=build%20artifacts)
-![Release Build](https://img.shields.io/github/actions/workflow/status/markterence/discord-quest-completer/build-release.yaml?branch=main&style=flat&label=build%20release)
-
 A Tauri desktop app that simulates Discord-detectable game activity using lightweight runner executables. This repository includes the refreshed desktop interface, updated packaging flow, and a guided usage tutorial for end users.
 
 ## Overview
@@ -222,4 +219,10 @@ pnpm build:runner:win # Build runner binary (Windows)
 ## Security and Compliance Disclaimer
 This project is for educational and testing use. You are responsible for complying with Discord Terms of Service and any relevant software, game, or platform policies. The maintainers are not responsible for account actions, bans, restrictions, or damages resulting from use of this software.
 
-## All Rights Are Reserved
+## © 2026 msxfury. All rights reserved.
+
+This project and its source code are proprietary to msxfury.
+
+Unauthorized copying, modification, distribution, sublicensing, or use of this software, in whole or in part, is strictly prohibited without prior written permission from msxfury.
+
+By accessing this repository, you agree to respect these restrictions and acknowledge that all rights are reserved by the owner.
